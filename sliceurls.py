@@ -1,4 +1,4 @@
-# python paramspider.py -d testphp.vulnweb.com
+# python paramspider.py -d {{Domain}}
 # create urls.txt file
 # python sliceurls.py
 # nuclei -l /home/kali/ParamSpider/output/{{Domain}}.txt -t /home/kali/fuzzing-critical-templates/path-*-test.yaml
